@@ -1,5 +1,5 @@
 import express from "express";
-import KPI from "../models/KPI.js";
+import KPI from "../models.js";
 import Product from "../models/Product.js";
 import Transaction from "../models/Transaction.js";
 

@@ -50,7 +50,7 @@ app.use("/dashboard", dashboardRoutes);
 
 
 /* PORT */
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 9000;
 
 /* MONGOOSE CONNECTION */
 mongoose
