@@ -7,7 +7,7 @@ import {
 
 export const api = createApi({
   baseQuery: fetchBaseQuery({
-baseUrl: "http://localhost:5000",
+baseUrl: import.meta.env.VITE_BASE_URL || "http://localhost:5000/",
   }),
   reducerPath: "main",
   tagTypes: ["Kpis", "Products", "Transactions"],
