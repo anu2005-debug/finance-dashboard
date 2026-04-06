@@ -133,7 +133,7 @@ This project is open-source and created for learning purposes.
 
 ⭐ Thank You
 
-Made with dedication by Shivam Shekhar 🚀
+Made with dedication by Anushka Keshri🚀
 
 
 ---
