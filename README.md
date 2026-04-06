@@ -6,7 +6,7 @@ This project provides real-time analytics for KPIs, products, and transactions w
 ---
 
 ## 👨‍💻 Author
-**Shivam Shekhar**
+**Anushka Keshri**
 
 ---
 
